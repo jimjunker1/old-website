@@ -9,7 +9,7 @@ search: true
 # Jekyll configuration
 
 permalink: /:categories/:title/
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: mmistakes/so-simple-theme@3.2.0
 markdown: kramdown
 highlighter: rouge
 gems:
