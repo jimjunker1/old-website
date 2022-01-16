@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 owner:
   name: Jim Junker
-  avatar: jim_junker.jpg
+  avatar: jim_junker.png
   email: james.junker1@gmail.com
   disqus-shortname:
   twitter: jimjunker

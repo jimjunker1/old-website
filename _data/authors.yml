@@ -1,16 +1,8 @@
-# Sample Authors
-# Remove file or replace with your own
-
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+\
+jim_junker:
+  name: Jim Junker
+  web: https://jimjunker1.github.io
+  email: james.junker1@gmail.com
+  bio: ""
+  avatar: jim_junker.png
+  twitter: jimjunker
