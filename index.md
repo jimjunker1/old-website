@@ -5,12 +5,9 @@ excerpt: ""
 modified: `r Sys.Date()`
 ---
 
-I am an ecologist working at the interface of food webs and ecosystems
+I am an aquatic ecologist with interests in ecosystem, food web, and community ecology.
 
 ## Main Research Interests
 
-*
-*
-*
-*
-
+* Ecosystem Ecology
+* Food webs
