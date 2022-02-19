@@ -112,6 +112,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  jekyll (>= 3.6.3)
   jekyll-gist
   jekyll-sitemap
   jekyll-theme-so-simple

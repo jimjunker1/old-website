@@ -4,6 +4,8 @@ title: Jim Junker's website
 locale: en_US
 description: Places for new, publications, thoughts, etc.
 search: true
+date_format: "%Y-%m-%d"
+
 # url: https://www.jimjunker.com
 
 # Jekyll configuration
