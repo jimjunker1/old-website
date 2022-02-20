@@ -2,11 +2,12 @@
 
 title: Jim Junker's website
 locale: en_US
-description: Places for new, publications, thoughts, etc.
+description: Places for news, publications, thoughts, etc.
 search: true
 date_format: "%Y-%m-%d"
 
-# url: https://www.jimjunker.com
+url: https://www.jimjunker.com
+logo: /images/jim_junker.png
 
 # Jekyll configuration
 
@@ -14,12 +15,20 @@ permalink: /:categories/:title/
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 markdown: kramdown
 highlighter: rouge
-gems:
+
+plugins:
  - jekyll-sitemap
  - jekyll-gist
  - jekyll-feed
+ - jekyll-paginate
+ 
 
 
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate_path: "/posts/page:num/"
+paginate: 7
+
+# Build settings
 kramdown:
   input: GFM
   auto_ids: true
@@ -37,7 +46,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 owner:
   name: Jim Junker
-  avatar: jim_junker.png
+  avatar: /images/jim_junker.png
+  picture: /images/jim_junker.png
   email: james.junker1@gmail.com
   disqus-shortname:
   twitter: jimjunker

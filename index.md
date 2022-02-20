@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: About
 title: About me
 excerpt: ""
 modified: `r Sys.Date()`

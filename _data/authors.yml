@@ -2,6 +2,7 @@
 jim_junker:
   name: Jim Junker
   web: https://jimjunker1.github.io
+  # web: https://www.jimjunker.com
   email: james.junker1@gmail.com
   bio: ""
   avatar: jim_junker.png
