@@ -16,7 +16,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 markdown: kramdown
 highlighter: rouge
 
-plugins:
+gems:
  - jekyll-sitemap
  - jekyll-gist
  - jekyll-feed

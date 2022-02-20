@@ -1,7 +1,11 @@
 ---
-layout: About
+layout: page
 title: About me
 excerpt: ""
+# modified: `r Sys.Date()`
+skin: "/assets/css/skins/dark.css"
+# title: "about"
+output: github_document
 ---
 
 I am an aquatic ecologist with interests in ecosystem, food web, and community ecology.
